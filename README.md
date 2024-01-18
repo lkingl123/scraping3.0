@@ -2,5 +2,8 @@
 
 https://www.youtube.com/watch?v=9zwyfrVv3hg&t=5s&ab_channel=Joshtriedcoding
 
-1
-2
+
+To not appear like a bot we download this package:
+
+yarn add puppeteer-extra puppeteer-extra-plugin-stealth
+
